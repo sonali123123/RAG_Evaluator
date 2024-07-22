@@ -1,0 +1,10 @@
+streamlit
+sacrebleu
+rouge-score
+bert-score
+transformers
+torch
+nltk
+textstat 
+textblob
+python -m nltk.downloader popular
